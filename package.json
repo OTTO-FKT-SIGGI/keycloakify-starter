@@ -17,16 +17,16 @@
     "license": "MIT",
     "keywords": [],
     "dependencies": {
+        "keycloakify": "^11.16.4",
+        "keycloakify-emails": "^3.6.0",
+        "react": "^19.3.1",
+        "react-dom": "^19.3.1",
         "@emotion/react": "^11.14.0",
         "@emotion/styled": "^11.14.1",
         "@mui/icons-material": "^6.5.0",
         "@mui/material": "^6.5.0",
         "canispam": "^1.0.0",
-        "jsx-email": "^3.2.1",
-        "keycloakify": "^11.16.4",
-        "keycloakify-emails": "^3.6.0",
-        "react": "^19.3.1",
-        "react-dom": "^19.3.1"
+        "jsx-email": "^3.2.1"
     },
     "devDependencies": {
         "@jsx-email/plugin-inline": "^2.0.0",
